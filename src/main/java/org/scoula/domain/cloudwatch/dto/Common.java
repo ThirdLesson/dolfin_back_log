@@ -10,4 +10,5 @@ public class Common {
     private String deviceInfo;
     private String memberId;
     private String ledgerCode;
+    private String transactionGroupId;
 }
